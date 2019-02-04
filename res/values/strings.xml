@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VIVA CHICLAYO</string>    
+    <string name="loading">loading</string>   	
+    <string name="responsive_ui">VIVA CHICLAYO</string>  
+      
+    <string name="about">About</string>
+    <string name="aboutus">About Chiclayo</string>    
+    <string name="contact">Contact</string>
+    
+     <string name="directory">Directory</string>
+    <string name="emergency">Emergency</string>
+    <string name="guides">Tour Guides</string>    
+    <string name="agencies">Travel Agencies</string>
+    <string name="taxi">Taxis</string>   
+    <string name="resposability">Responsibility</string>
+    <string name="resposability_text">VIVACHICLAYO only shows in the directory location data of taxi companies, guides and tourism companies in the SCHEDULE section. The deals are made directly with stakeholders freeing us from any responsibility for it.</string>
+    
+       
+    
+    <string name="about_msg">&lt;b>VIVACHICLAYO&lt;/b> was initially started at the 
+        &lt;b>Private University of Juan Mejía Baca (UMB)&lt;/b>  by interns from 
+        Brigham Young University, who wanted to give tourists of Chiclayo, 
+        Peru easier access to information about the area.
+		The information provided on this website is based on first-hand 
+		experience of the Chiclayo area. Since information can change pretty quickly, 
+		students and professors from the Hotel Management, Tourism, Ecotourism, and 
+		Gastronomy Major at UMB  will be updating and adding information when necessary.</string>  
+		    
+    <string name="no_email">Sorry, I couldn\'t find any e-mail apps on your phone</string>
+   
+</resources>

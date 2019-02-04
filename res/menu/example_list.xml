@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >    
+    
+    <item android:id="@+id/about" android:title="@string/about" android:showAsAction="never" android:orderInCategory="1"></item>
+    <item android:id="@+id/resposability" android:title="@string/resposability" android:showAsAction="never" android:orderInCategory="1"></item>
+    <item android:id="@+id/directorio" android:title="@string/directory" android:showAsAction="always" android:orderInCategory="1" android:icon="@drawable/ic_drawer">   
+    	<menu>
+          	<item android:id="@+id/emergency" android:title="@string/emergency" android:showAsAction="never" android:orderInCategory="1"></item>
+          	<item android:id="@+id/taxi" android:title="@string/taxi" android:showAsAction="never" android:orderInCategory="2"></item>
+          	<item android:id="@+id/guides" android:title="@string/guides" android:showAsAction="never" android:orderInCategory="3"></item>          	
+          	<item android:id="@+id/agencies" android:title="@string/agencies" android:showAsAction="never" android:orderInCategory="4"></item>
+        </menu>
+    </item>
+
+</menu>

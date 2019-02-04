@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contenedorNumeros"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:dividerPadding="5dp"
+    android:padding="7dp"
+    android:showDividers="end" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageButton
+            android:id="@+id/imageLlamada"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:background="@color/BotonLLamada"            
+            android:src="@drawable/ic_action_ring_volume" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contenedorDatos"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="3dp" >
+
+        <TextView
+            android:id="@+id/textoTipo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Emergencia"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textoNumero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="114"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="18dp" />
+
+        <TextView
+            android:id="@+id/textoEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="textoEmail" />
+
+        <TextView
+            android:id="@+id/textoIdioma"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="textoIdioma" />
+
+    </LinearLayout>
+
+</LinearLayout>

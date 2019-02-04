@@ -1,0 +1,56 @@
+.fr_sagigi {
+  width:50%;
+  margin:0 auto 0 auto
+}
+.fr_nuduci {
+  width:50%;
+  margin:0 auto 0 auto
+}
+@media screen and (max-width:1024px) {
+  .fr_nuduci {
+    width:80%;
+    margin:0 0 0 0%
+  }
+}
+@media screen and (max-width:1024px) {
+  .fr_sagigi {
+    width:100%;
+    margin:0 0 0 0%
+  }
+}
+@media screen and (max-width:768px) {
+  .fr_nuduci {
+    width:100%;
+    margin:0 0 0 0%
+  }
+}
+@media screen and (max-width:768px) {
+  .fr_sagigi {
+    width:100%;
+    margin:0 0 0 0%
+  }
+}
+@media screen and (max-width:480px) {
+  .fr_sagigi {
+    width:100%;
+    margin:0 auto
+  }
+}
+@media screen and (max-width:480px) {
+  .fr_nuduci {
+    width:100%;
+    margin:0 auto
+  }
+}
+@media screen and (max-width:320px) {
+  .fr_sagigi {
+    width:100%;
+    margin:0 auto
+  }
+}
+@media screen and (max-width:320px) {
+  .fr_nuduci {
+    width:100%;
+    margin:0 auto
+  }
+}

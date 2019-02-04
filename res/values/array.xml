@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="categorias">
+        <item>HOME</item>
+        <item>Museums - Archaelogical Sites</item>
+        <item>Cultural Tourism</item>
+        <item>Ecoturism</item>
+        <item>Special Topics</item>
+        <item>Hotel - Travel Info</item>
+        <item>Transportation</item>
+        <item>Food</item>
+        <item>Guides - Agencies</item>
+    </string-array>
+
+   
+</resources>
